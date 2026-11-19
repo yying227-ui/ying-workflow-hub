@@ -1,14 +1,14 @@
 {
-  "date_utc": "2026-11-18",
+  "date_utc": "2026-11-19",
   "base": "AUD",
   "rates": {
-    "USD": 0.673691,
-    "CNY": 4.495262,
-    "GBP": 0.510333,
-    "NZD": 1.225432,
-    "EUR": 0.612685,
-    "JPY": 107.369713
+    "USD": 0.671942,
+    "CNY": 4.484075,
+    "GBP": 0.510667,
+    "NZD": 1.2236,
+    "EUR": 0.612417,
+    "JPY": 107.085729
   },
   "source": "open.er-api.com (ExchangeRate-API)",
-  "source_updated_utc": "Wed, 18 Nov 2026 00:02:31 +0000"
+  "source_updated_utc": "Thu, 19 Nov 2026 00:02:31 +0000"
 }
